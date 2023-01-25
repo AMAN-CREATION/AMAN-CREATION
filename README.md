@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AMAN-CREATION</h1>
+<h1 align="center">Hi 👋, I'm AMAN</h1>
 <h3 align="center">||Competitive Programmer||</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b761125e0af95a815e97ec22e14166bfaa2453d6316bc&rid=giphy.gif&ct=s" >
