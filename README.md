@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **||Competitive Programmer|| Learn DSA & C++,Java || I learned HTML & CSS, JavaScript,React||**
 
-- 📫 How to reach me **amannatpal@gmail.com**
+- 📫 How to reach me **amannathpal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
