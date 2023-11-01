@@ -39,7 +39,7 @@ class About extends Me {
   const myTools = {  
     "ProgramingLanguages" : { "C",  Reactjs, "Javascript", "Java", "c++" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "MySQL" },
+    "Database" : { "Firebase", "MySQL" , "MongoDB"},
     "Editors" : { "Vscode", "Atom, "Sublime", "NotePad++" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Lightroom" }
