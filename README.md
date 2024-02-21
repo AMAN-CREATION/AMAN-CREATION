@@ -28,6 +28,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
 
 <div align="left">
 
