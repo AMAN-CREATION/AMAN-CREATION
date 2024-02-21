@@ -36,12 +36,12 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "C",  Reactjs, "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "ProgramingLanguages" : { "C",  Reactjs, "Javascript", "Typescript", "c++", "Express", "NodeJs" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Tailwind", "SAAS" },
     "Database" : { "Firebase", "MySQL" , "MongoDB"},
     "Editors" : { "Vscode", "Atom, "Sublime", "NotePad++" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Lightroom" }
+    "OtherTools" : { "Git", "Figma", "Blender", "NPM" }
   };
 }
 ```
